@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw Cricsheet JSON (app reads the parsed CSVs in data/)
+JSON Source Files/
+
+# Internal dev/spec doc
+CLAUDE.md
+
+# OS / editor
+.DS_Store
+.vscode/

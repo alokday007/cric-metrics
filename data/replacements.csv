@@ -1,0 +1,145 @@
+match_id,innings,over,ball_in_over,team,player_in,player_out,reason
+1527674,1,7,1,Royal Challengers Bengaluru,D Padikkal,JA Duffy,impact_player
+1527674,1,17,6,Sunrisers Hyderabad,DA Payne,TM Head,impact_player
+1527675,2,0,1,Kolkata Knight Riders,Kartik Tyagi,FH Allen,impact_player
+1527675,2,11,7,Mumbai Indians,SA Yadav,JJ Bumrah,impact_player
+1527676,1,3,2,Chennai Super Kings,SN Khan,A Mhatre,impact_player
+1527677,1,16,1,Punjab Kings,Priyansh Arya,YS Chahal,impact_player
+1527677,2,0,1,Gujarat Titans,M Prasidh Krishna,M Shahrukh Khan,impact_player
+1527678,1,13,2,Lucknow Super Giants,Shahbaz Ahmed,MR Marsh,impact_player
+1527678,2,3,4,Delhi Capitals,Sameer Rizvi,T Natarajan,impact_player
+1527679,2,0,1,Kolkata Knight Riders,FH Allen,B Muzarabani,impact_player
+1527679,2,0,1,Sunrisers Hyderabad,E Malinga,TM Head,impact_player
+1527680,1,18,1,Punjab Kings,Priyansh Arya,YS Chahal,impact_player
+1527680,2,0,1,Chennai Super Kings,RD Chahar,Kartik Sharma,impact_player
+1527681,2,1,5,Delhi Capitals,Sameer Rizvi,Mukesh Kumar,impact_player
+1527681,2,5,1,Mumbai Indians,M Markande,RG Sharma,impact_player
+1527682,2,0,1,Rajasthan Royals,Ravi Bishnoi,D Ferreira,impact_player
+1527682,2,13,2,Gujarat Titans,M Shahrukh Khan,M Prasidh Krishna,impact_player
+1527683,1,12,1,Lucknow Super Giants,A Badoni,Mohammed Shami,impact_player
+1527683,2,0,1,Sunrisers Hyderabad,E Malinga,TM Head,impact_player
+1527684,1,16,1,Chennai Super Kings,Kartik Sharma,KK Ahmed,impact_player
+1527684,2,10,1,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player
+1527686,2,0,1,Rajasthan Royals,Ravi Bishnoi,D Ferreira,impact_player
+1527686,2,5,1,Mumbai Indians,SE Rutherford,AM Ghazanfar,impact_player
+1527687,2,0,1,Gujarat Titans,M Prasidh Krishna,M Shahrukh Khan,impact_player
+1527687,2,9,6,Delhi Capitals,Sameer Rizvi,Mukesh Kumar,impact_player
+1527688,2,0,1,Kolkata Knight Riders,VG Arora,FH Allen,impact_player
+1527688,2,4,4,Lucknow Super Giants,A Badoni,M Siddharth,impact_player
+1527689,1,14,1,Royal Challengers Bengaluru,VR Iyer,D Padikkal,impact_player
+1527689,2,0,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player
+1527690,2,0,1,Sunrisers Hyderabad,JD Unadkat,TM Head,impact_player
+1527690,2,10,3,Punjab Kings,N Wadhera,YS Chahal,impact_player
+1527691,2,0,1,Chennai Super Kings,AJ Hosein,A Mhatre,impact_player
+1527691,2,12,3,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player
+1527692,1,16,3,Lucknow Super Giants,GF Linde,A Badoni,impact_player
+1527692,1,16,3,Gujarat Titans,M Shahrukh Khan,Mohammed Siraj,impact_player
+1527693,2,0,1,Royal Challengers Bengaluru,Rasikh Salam,TH David,impact_player
+1527693,2,12,4,Mumbai Indians,SE Rutherford,M Markande,impact_player
+1529264,2,0,1,Sunrisers Hyderabad,Sakib Hussain,TM Head,impact_player
+1529264,2,0,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player
+1529265,2,0,1,Kolkata Knight Riders,FH Allen,CV Varun,impact_player
+1529265,2,0,1,Chennai Super Kings,AJ Hosein,A Mhatre,impact_player
+1529266,1,16,7,Lucknow Super Giants,GF Linde,A Badoni,impact_player
+1529266,2,0,1,Royal Challengers Bengaluru,V Kohli,Suyash Sharma,impact_player
+1529267,2,0,1,Mumbai Indians,AM Ghazanfar,SA Yadav,impact_player
+1529268,2,6,1,Kolkata Knight Riders,CV Varun,A Raghuvanshi,impact_player
+1529268,2,19,3,Gujarat Titans,M Shahrukh Khan,M Prasidh Krishna,impact_player
+1529269,1,19,4,Royal Challengers Bengaluru,Rasikh Salam,D Padikkal,impact_player
+1529269,2,0,5,Delhi Capitals,KK Nair,Mukesh Kumar,impact_player
+1529270,1,17,3,Sunrisers Hyderabad,LS Livingstone,TM Head,impact_player
+1529270,2,1,2,Chennai Super Kings,A Mhatre,Gurjapneet Singh,impact_player
+1529271,1,15,1,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player
+1529271,2,5,1,Rajasthan Royals,Yash Raj Punja,V Suryavanshi,impact_player
+1529272,1,16,1,Lucknow Super Giants,Himmat Singh,Mohsin Khan,impact_player
+1529272,2,0,1,Punjab Kings,Vijaykumar Vyshak,N Wadhera,impact_player
+1529273,2,0,1,Mumbai Indians,Ashwani Kumar,SE Rutherford,impact_player
+1529273,2,7,3,Gujarat Titans,R Tewatia,M Prasidh Krishna,impact_player
+1529274,2,0,1,Sunrisers Hyderabad,D Madushanka,TM Head,impact_player
+1529274,2,15,6,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player
+1529275,1,15,6,Rajasthan Royals,SB Dubey,YBK Jaiswal,impact_player
+1529275,2,9,5,Lucknow Super Giants,Himmat Singh,Prince Yadav,impact_player
+1529276,1,17,1,Mumbai Indians,DV Malewar,AM Ghazanfar,impact_player
+1529276,1,18,1,Chennai Super Kings,AJ Hosein,Kartik Sharma,impact_player
+1529276,2,12,3,Mumbai Indians,SN Thakur,MJ Santner,concussion_substitute
+1529277,2,0,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player
+1529277,2,0,1,Royal Challengers Bengaluru,JG Bethell,Suyash Sharma,impact_player
+1529278,1,17,1,Punjab Kings,N Wadhera,YS Chahal,impact_player
+1529278,2,0,1,Delhi Capitals,Auqib Nabi,P Nissanka,impact_player
+1529278,2,3,1,Delhi Capitals,V Nigam,L Ngidi,concussion_substitute
+1529279,1,18,1,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player
+1529279,2,0,1,Rajasthan Royals,Ravi Bishnoi,YBK Jaiswal,impact_player
+1529280,1,4,1,Chennai Super Kings,SN Khan,Urvil Patel,impact_player
+1529281,1,11,1,Lucknow Super Giants,Himmat Singh,Mohsin Khan,impact_player
+1529281,2,6,1,Kolkata Knight Riders,CV Varun,A Raghuvanshi,impact_player
+1529282,1,2,5,Delhi Capitals,Abishek Porel,SU Parakh,impact_player
+1529282,2,0,1,Royal Challengers Bengaluru,JG Bethell,Suyash Sharma,impact_player
+1529283,2,3,1,Punjab Kings,Harpreet Brar,Priyansh Arya,impact_player
+1529283,2,14,1,Rajasthan Royals,SB Dubey,Yash Raj Punja,impact_player
+1529284,1,19,1,Sunrisers Hyderabad,Aniket Verma,Sakib Hussain,impact_player
+1529284,2,7,1,Mumbai Indians,SN Thakur,R Minz,impact_player
+1529285,1,14,1,Royal Challengers Bengaluru,VR Iyer,JG Bethell,impact_player
+1529285,2,10,2,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player
+1529286,2,0,1,Rajasthan Royals,TU Deshpande,SB Dubey,impact_player
+1529287,2,5,1,Mumbai Indians,Raghu Sharma,R Minz,impact_player
+1529287,2,5,5,Chennai Super Kings,Kartik Sharma,Mukesh Choudhary,impact_player
+1529288,2,0,1,Kolkata Knight Riders,FH Allen,VG Arora,impact_player
+1529288,2,7,1,Sunrisers Hyderabad,Sakib Hussain,Aniket Verma,impact_player
+1529289,1,17,7,Punjab Kings,Vijaykumar Vyshak,N Wadhera,impact_player
+1529289,2,14,6,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player
+1529290,2,0,1,Lucknow Super Giants,M Siddharth,MR Marsh,impact_player
+1529290,2,0,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player
+1529291,1,11,1,Delhi Capitals,Sameer Rizvi,KK Nair,impact_player
+1529292,1,16,1,Punjab Kings,Priyansh Arya,YS Chahal,impact_player
+1529292,2,0,1,Sunrisers Hyderabad,Harsh Dubey,TM Head,impact_player
+1529293,2,0,1,Lucknow Super Giants,MP Yadav,Himmat Singh,impact_player
+1529293,2,10,6,Royal Challengers Bengaluru,TH David,Suyash Sharma,impact_player
+1529294,1,18,1,Kolkata Knight Riders,FH Allen,CV Varun,impact_player
+1529294,2,0,1,Delhi Capitals,Kuldeep Yadav,Ashutosh Sharma,impact_player
+1529295,1,14,1,Rajasthan Royals,V Suryavanshi,Yash Raj Punja,impact_player
+1529295,2,2,6,Gujarat Titans,R Sai Kishore,R Tewatia,impact_player
+1529296,1,19,6,Lucknow Super Giants,Avesh Khan,JP Inglis,impact_player
+1529296,2,16,2,Chennai Super Kings,PR Veer,Mukesh Choudhary,impact_player
+1529297,1,15,3,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player
+1529297,2,0,1,Mumbai Indians,Raghu Sharma,RG Sharma,impact_player
+1529298,1,17,1,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player
+1529298,2,0,1,Punjab Kings,Yash Thakur,Shashank Singh,impact_player
+1529299,2,0,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player
+1529299,2,0,1,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player
+1529300,1,14,1,Royal Challengers Bengaluru,D Padikkal,JA Duffy,impact_player
+1529300,2,0,1,Kolkata Knight Riders,SR Dubey,FH Allen,impact_player
+1529301,1,16,3,Punjab Kings,Vishnu Vinod,P Simran Singh,impact_player
+1529301,2,0,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player
+1529302,2,0,1,Chennai Super Kings,Gurjapneet Singh,S Dube,impact_player
+1529302,2,0,1,Lucknow Super Giants,JP Inglis,Prince Yadav,impact_player
+1529303,2,0,1,Kolkata Knight Riders,M Pathirana,FH Allen,impact_player
+1529303,2,18,7,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player
+1529304,1,18,1,Punjab Kings,MP Stoinis,YS Chahal,impact_player
+1529304,2,3,1,Royal Challengers Bengaluru,Rasikh Salam,D Padikkal,impact_player
+1529305,1,16,6,Rajasthan Royals,MD Shanaka,SB Dubey,impact_player
+1529305,2,18,2,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player
+1529306,2,0,1,Chennai Super Kings,Mukesh Choudhary,Kartik Sharma,impact_player
+1529306,2,0,1,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player
+1529307,1,18,1,Rajasthan Royals,V Suryavanshi,Yash Raj Punja,impact_player
+1529307,2,0,1,Lucknow Super Giants,DS Rathi,JP Inglis,impact_player
+1529308,1,17,1,Kolkata Knight Riders,FH Allen,CV Varun,impact_player
+1529308,2,0,1,Mumbai Indians,AM Ghazanfar,RG Sharma,impact_player
+1529308,2,15,3,Kolkata Knight Riders,T Dahiya,A Raghuvanshi,concussion_substitute
+1529309,2,0,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player
+1529309,2,2,5,Chennai Super Kings,Kartik Sharma,Gurjapneet Singh,impact_player
+1529310,1,15,7,Royal Challengers Bengaluru,TH David,Suyash Sharma,impact_player
+1529310,2,0,1,Sunrisers Hyderabad,HV Patel,S Arora,impact_player
+1529311,1,15,1,Punjab Kings,MP Stoinis,YS Chahal,impact_player
+1529311,2,0,1,Lucknow Super Giants,DS Rathi,JP Inglis,impact_player
+1529312,1,17,6,Rajasthan Royals,RA Jadeja,SB Dubey,impact_player
+1529312,2,0,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player
+1529313,1,15,1,Kolkata Knight Riders,FH Allen,SP Narine,concussion_substitute
+1529313,2,0,1,Delhi Capitals,Kuldeep Yadav,KL Rahul,impact_player
+1535462,1,19,1,Gujarat Titans,R Tewatia,K Khejroliya,impact_player
+1535462,2,11,1,Royal Challengers Bengaluru,R Shepherd,JA Duffy,impact_player
+1535463,1,16,1,Sunrisers Hyderabad,Salil Arora,PP Hinge,impact_player
+1535463,1,19,3,Rajasthan Royals,SS Mishra,YBK Jaiswal,impact_player
+1535464,1,17,1,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player
+1535464,2,0,1,Rajasthan Royals,TU Deshpande,YBK Jaiswal,impact_player
+1535465,1,14,1,Royal Challengers Bengaluru,VR Iyer,JA Duffy,impact_player
+1535465,2,0,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player
