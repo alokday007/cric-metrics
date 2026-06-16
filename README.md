@@ -2,22 +2,13 @@
 
 A descriptive, ball-by-ball statistics dashboard for **IPL 2026**, built from Cricsheet data with Python, pandas, Plotly, and Streamlit.
 
-<!--
-  Before publishing, replace the placeholders marked below:
-  • Live demo URL  (after deploying to Streamlit Community Cloud)
-  • docs/screenshot.png  (add a screenshot or short GIF of the app)
-  • the clone URL, if your repo name differs from cric-metrics
-  • your author links at the bottom
--->
-
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.58-FF4B4B)](https://streamlit.io/)
 [![Data: Cricsheet](https://img.shields.io/badge/Data-Cricsheet%20(ODC--BY)-success)](https://cricsheet.org/)
 
-**▶ Live demo:** _coming soon_ <!-- https://your-app.streamlit.app -->
+**▶ Live demo:** [cric-metrics.streamlit.app](https://cric-metrics.streamlit.app) 
 
 ![Cric Metrics dashboard](docs/screenshot.png)
-<!-- Add a screenshot or short GIF at docs/screenshot.png and it will render here -->
 
 ---
 
@@ -64,7 +55,7 @@ Exact pinned versions are in [`requirements.txt`](requirements.txt).
 cric-metrics/
 ├── app.py              # Streamlit UI — renders all seven tabs
 ├── analytics.py        # Stat computations (batting, bowling, fielding, standings/NRR, …)
-├── parse.py            # Cricsheet JSON → two-table CSV (matches + deliveries)
+├── parse.py            # Cricsheet JSON → four-table CSV (matches + deliveries + replacements + reviews)
 ├── data/               # Parsed CSVs (committed; loaded via @st.cache_data)
 ├── .streamlit/
 │   └── config.toml     # Dark theme + green accent
@@ -117,4 +108,5 @@ The project code is released under the MIT Licence — add a `LICENSE` file if y
 ## Author
 
 Built by **Alok** as a portfolio project.
-<!-- Add your links, e.g. GitHub · LinkedIn · portfolio -->
+
+[GitHub](https://github.com/alokday007)
